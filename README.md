@@ -1,6 +1,6 @@
 # Control Systems I: MATLAB, Simulink, Root Locus, and PID Design
 
-**Course:** ME0344 - Control Systems I  
+**Course:** ME0344 - Control Systems I
 **Institution:** German Jordanian University (GJU)
 
 ## Overview
